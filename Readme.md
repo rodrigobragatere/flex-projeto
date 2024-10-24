@@ -56,3 +56,4 @@ Para mais informações, visite nossa página ou entre em contato:
 ## Licença
 
 Este projeto foi desenvolvido por **Rodrigo Braga** &copy; 2024 Banestes Turismos.
+Alunos da Descomplica
